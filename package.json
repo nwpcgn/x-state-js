@@ -1,0 +1,9 @@
+{
+  "name": "7xc2y9--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "xstate": "4.38.2",
+    "vite": "5.3.1"
+  }
+}
